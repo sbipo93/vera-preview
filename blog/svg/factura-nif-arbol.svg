@@ -1,0 +1,46 @@
+<svg viewBox="0 0 400 440" xmlns="http://www.w3.org/2000/svg" font-family="Lexend, sans-serif">
+  <rect x="0" y="0" width="400" height="440" rx="16" fill="#f7f6f4"/>
+  <text x="24" y="40" font-size="20" font-weight="700" fill="#161614">¿Necesitas el NIF de tu cliente?</text>
+
+  <!-- PREGUNTA 1 -->
+  <rect x="20" y="58" width="360" height="58" rx="12" fill="#ffffff"/>
+  <rect x="20" y="58" width="6" height="58" rx="3" fill="#161614"/>
+  <text x="40" y="83" font-size="14" font-weight="700" fill="#161614">1. ¿Te pide factura completa</text>
+  <text x="40" y="103" font-size="14" font-weight="700" fill="#161614">para deducir?</text>
+
+  <!-- rama SÍ de la pregunta 1 -->
+  <line x1="300" y1="116" x2="300" y2="140" stroke="#9a978f" stroke-width="2"/>
+  <text x="312" y="134" font-size="12" font-weight="700" fill="#6b6963">SÍ</text>
+  <rect x="210" y="140" width="170" height="48" rx="10" fill="#e9645f"/>
+  <text x="295" y="162" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Sí: necesitas su NIF</text>
+  <text x="295" y="179" font-size="12" fill="#fdeceb" text-anchor="middle">(factura completa)</text>
+
+  <!-- rama NO de la pregunta 1 baja a pregunta 2 -->
+  <line x1="100" y1="116" x2="100" y2="206" stroke="#9a978f" stroke-width="2"/>
+  <text x="78" y="150" font-size="12" font-weight="700" fill="#6b6963">NO</text>
+
+  <!-- PREGUNTA 2 -->
+  <rect x="20" y="206" width="360" height="58" rx="12" fill="#ffffff"/>
+  <rect x="20" y="206" width="6" height="58" rx="3" fill="#161614"/>
+  <text x="40" y="231" font-size="14" font-weight="700" fill="#161614">2. ¿El importe pasa del límite</text>
+  <text x="40" y="251" font-size="14" font-weight="700" fill="#161614">de la simplificada?</text>
+
+  <!-- rama SÍ de la pregunta 2 -->
+  <line x1="300" y1="264" x2="300" y2="288" stroke="#9a978f" stroke-width="2"/>
+  <text x="312" y="282" font-size="12" font-weight="700" fill="#6b6963">SÍ</text>
+  <rect x="210" y="288" width="170" height="48" rx="10" fill="#e0a458"/>
+  <text x="295" y="308" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">Factura completa (su nombre)</text>
+  <text x="295" y="325" font-size="11" fill="#fdf2e3" text-anchor="middle">el NIF sigue sin hacer falta</text>
+
+  <!-- rama NO de la pregunta 2 -->
+  <line x1="100" y1="264" x2="100" y2="288" stroke="#9a978f" stroke-width="2"/>
+  <text x="78" y="282" font-size="12" font-weight="700" fill="#6b6963">NO</text>
+  <rect x="20" y="288" width="170" height="48" rx="10" fill="#2fa89a"/>
+  <text x="105" y="310" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">No hace falta NIF</text>
+  <text x="105" y="327" font-size="12" fill="#e3f4f1" text-anchor="middle">(factura simplificada)</text>
+
+  <!-- pie -->
+  <text x="24" y="372" font-size="13" fill="#6b6963">Límite general de la simplificada: 400 € (IVA incl.);</text>
+  <text x="24" y="392" font-size="13" fill="#6b6963">3.000 € en ciertas actividades.</text>
+  <text x="24" y="420" font-size="13" font-weight="700" fill="#161614">A un particular, casi siempre, la simplificada le vale.</text>
+</svg>

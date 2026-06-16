@@ -1,0 +1,22 @@
+<svg viewBox="0 0 400 320" xmlns="http://www.w3.org/2000/svg" font-family="Lexend, sans-serif">
+  <rect x="0" y="0" width="400" height="320" rx="16" fill="#f7f6f4"/>
+  <text x="28" y="46" font-size="22" font-weight="700" fill="#161614">Qué hacer ahora, sin agobios</text>
+
+  <!-- paso 1 -->
+  <circle cx="44" cy="104" r="20" fill="#2fa89a"/>
+  <text x="44" y="111" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="80" y="98" font-size="16" font-weight="700" fill="#161614">Apunta tu fecha</text>
+  <text x="80" y="119" font-size="14" fill="#3d3b37">Autónomo: 1 de julio de 2027.</text>
+
+  <!-- paso 2 -->
+  <circle cx="44" cy="184" r="20" fill="#2fa89a"/>
+  <text x="44" y="191" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+  <text x="80" y="178" font-size="16" font-weight="700" fill="#161614">Elige un programa que cumpla</text>
+  <text x="80" y="199" font-size="14" fill="#3d3b37">Pruébalo con calma, sin prisa.</text>
+
+  <!-- paso 3 -->
+  <circle cx="44" cy="264" r="20" fill="#2fa89a"/>
+  <text x="44" y="271" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+  <text x="80" y="258" font-size="16" font-weight="700" fill="#161614">Empieza cuando quieras</text>
+  <text x="80" y="279" font-size="14" fill="#3d3b37">Voluntario desde hoy: llegas sin notarlo.</text>
+</svg>

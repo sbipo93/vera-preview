@@ -1,0 +1,24 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" font-family="Lexend, sans-serif">
+  <rect x="0" y="0" width="400" height="300" rx="16" fill="#f7f6f4"/>
+  <text x="28" y="46" font-size="22" font-weight="700" fill="#161614">¿Hasta cuándo sirve tu Excel?</text>
+
+  <!-- eje -->
+  <line x1="44" y1="96" x2="44" y2="252" stroke="#2fa89a" stroke-width="3"/>
+
+  <!-- hito HOY -->
+  <circle cx="44" cy="104" r="9" fill="#2fa89a"/>
+  <text x="68" y="100" font-size="16" font-weight="700" fill="#161614">Hoy</text>
+  <text x="68" y="121" font-size="14" fill="#3d3b37">Excel y Word: válidos.</text>
+
+  <!-- hito sociedades -->
+  <circle cx="44" cy="168" r="9" fill="#2fa89a"/>
+  <text x="68" y="164" font-size="16" font-weight="700" fill="#161614">1 de enero de 2027</text>
+  <text x="68" y="185" font-size="14" fill="#3d3b37">Sociedades: necesitan programa.</text>
+
+  <!-- hito autónomos -->
+  <circle cx="44" cy="240" r="11" fill="#161614"/>
+  <text x="72" y="236" font-size="16" font-weight="700" fill="#161614">1 de julio de 2027</text>
+  <text x="72" y="257" font-size="14" fill="#3d3b37">Autónomos: el Excel deja de servir.</text>
+
+  <text x="28" y="290" font-size="13" fill="#6b6963">Tu fecha, si eres autónomo, es la de abajo.</text>
+</svg>

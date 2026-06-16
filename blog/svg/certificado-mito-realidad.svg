@@ -1,0 +1,26 @@
+<svg viewBox="0 0 400 430" xmlns="http://www.w3.org/2000/svg" font-family="Lexend, sans-serif">
+  <rect x="0" y="0" width="400" height="430" rx="16" fill="#f7f6f4"/>
+  <text x="24" y="42" font-size="20" font-weight="700" fill="#161614">¿Certificado digital para VeriFactu?</text>
+
+  <!-- TARJETA MITO -->
+  <rect x="20" y="62" width="360" height="130" rx="12" fill="#ffffff"/>
+  <rect x="20" y="62" width="6" height="130" rx="3" fill="#9a978f"/>
+  <rect x="40" y="80" width="74" height="26" rx="13" fill="#e2e0db"/>
+  <text x="77" y="98" font-size="14" font-weight="700" fill="#3d3b37" text-anchor="middle">MITO</text>
+  <text x="40" y="134" font-size="15" fill="#3d3b37">"Para VeriFactu necesitas</text>
+  <text x="40" y="156" font-size="15" fill="#3d3b37">certificado digital sí o sí."</text>
+  <text x="40" y="180" font-size="15" font-weight="700" fill="#161614">→ No es verdad.</text>
+
+  <!-- TARJETA REALIDAD -->
+  <rect x="20" y="208" width="360" height="170" rx="12" fill="#ffffff"/>
+  <rect x="20" y="208" width="6" height="170" rx="3" fill="#2fa89a"/>
+  <rect x="40" y="226" width="108" height="26" rx="13" fill="#2fa89a"/>
+  <text x="94" y="244" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">REALIDAD</text>
+  <text x="40" y="280" font-size="15" fill="#3d3b37">Depende de quién hable con Hacienda:</text>
+  <text x="40" y="308" font-size="14" fill="#3d3b37">· Tú, a mano por la web de la AEAT →</text>
+  <text x="54" y="328" font-size="14" font-weight="700" fill="#161614">certificado o Cl@ve.</text>
+  <text x="40" y="352" font-size="14" fill="#3d3b37">· Un programa que cumple, por ti →</text>
+  <text x="54" y="372" font-size="14" font-weight="700" fill="#2fa89a">no manejas ningún certificado.</text>
+
+  <text x="24" y="412" font-size="13" fill="#6b6963">La pregunta no es el certificado: es quién habla con Hacienda.</text>
+</svg>

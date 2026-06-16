@@ -1,0 +1,28 @@
+<svg viewBox="0 0 400 340" xmlns="http://www.w3.org/2000/svg" font-family="Lexend, sans-serif">
+  <rect x="0" y="0" width="400" height="340" rx="16" fill="#ffffff"/>
+  <rect x="0" y="0" width="6" height="340" rx="3" fill="#2fa89a"/>
+  <text x="28" y="48" font-size="22" font-weight="700" fill="#161614">En 30 segundos</text>
+
+  <!-- fila 1 -->
+  <circle cx="36" cy="92" r="6" fill="#2fa89a"/>
+  <text x="56" y="89" font-size="15" font-weight="500" fill="#161614">VeriFactu = facturas selladas e</text>
+  <text x="56" y="109" font-size="15" font-weight="500" fill="#161614">imborrables, hechas con un programa.</text>
+
+  <!-- fila 2 -->
+  <circle cx="36" cy="150" r="6" fill="#2fa89a"/>
+  <text x="56" y="147" font-size="15" font-weight="500" fill="#161614">Autónomos: 1 de julio de 2027.</text>
+  <text x="56" y="167" font-size="14" fill="#3d3b37">Sociedades, antes: 1 de enero de 2027.</text>
+
+  <!-- fila 3 -->
+  <circle cx="36" cy="208" r="6" fill="#2fa89a"/>
+  <text x="56" y="205" font-size="15" font-weight="500" fill="#161614">Hoy no urge: no tienes que</text>
+  <text x="56" y="225" font-size="15" font-weight="500" fill="#161614">cambiar nada de golpe.</text>
+
+  <!-- fila 4 -->
+  <circle cx="36" cy="266" r="6" fill="#2fa89a"/>
+  <text x="56" y="263" font-size="15" font-weight="500" fill="#161614">Lo único importante: elegir con</text>
+  <text x="56" y="283" font-size="15" font-weight="500" fill="#161614">calma un programa que ya lo haga.</text>
+
+  <line x1="28" y1="306" x2="372" y2="306" stroke="#e2e0db" stroke-width="1"/>
+  <text x="28" y="326" font-size="13" fill="#6b6963">El que solo lea esto se va servido.</text>
+</svg>

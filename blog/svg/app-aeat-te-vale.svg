@@ -1,0 +1,32 @@
+<svg viewBox="0 0 400 470" xmlns="http://www.w3.org/2000/svg" font-family="Lexend, sans-serif">
+  <rect x="0" y="0" width="400" height="470" rx="16" fill="#f7f6f4"/>
+  <text x="24" y="40" font-size="20" font-weight="700" fill="#161614">¿La app gratis de la AEAT me vale?</text>
+  <text x="24" y="62" font-size="13" fill="#6b6963">Depende de lo que necesites, no de lo que cuesta.</text>
+
+  <!-- TARJETA: TE PUEDE BASTAR -->
+  <rect x="20" y="80" width="360" height="160" rx="12" fill="#ffffff"/>
+  <rect x="20" y="80" width="6" height="160" rx="3" fill="#2fa89a"/>
+  <rect x="40" y="98" width="168" height="26" rx="13" fill="#2fa89a"/>
+  <text x="124" y="116" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">TE PUEDE BASTAR SI…</text>
+  <text x="40" y="150" font-size="14" fill="#2fa89a" font-weight="700">✓</text>
+  <text x="58" y="150" font-size="14" fill="#3d3b37">facturas poco y sencillo</text>
+  <text x="40" y="178" font-size="14" fill="#2fa89a" font-weight="700">✓</text>
+  <text x="58" y="178" font-size="14" fill="#3d3b37">solo quieres cumplir VeriFactu</text>
+  <text x="40" y="206" font-size="14" fill="#2fa89a" font-weight="700">✓</text>
+  <text x="58" y="206" font-size="14" fill="#3d3b37">no te importa hacerlo a mano</text>
+
+  <!-- TARJETA: MEJOR OTRA COSA -->
+  <rect x="20" y="256" width="360" height="160" rx="12" fill="#ffffff"/>
+  <rect x="20" y="256" width="6" height="160" rx="3" fill="#9a978f"/>
+  <rect x="40" y="274" width="190" height="26" rx="13" fill="#e2e0db"/>
+  <text x="135" y="292" font-size="13" font-weight="700" fill="#3d3b37" text-anchor="middle">SE TE QUEDA CORTA SI…</text>
+  <text x="40" y="326" font-size="14" fill="#9a978f" font-weight="700">·</text>
+  <text x="58" y="326" font-size="14" fill="#3d3b37">quieres cobrar por enlace</text>
+  <text x="40" y="354" font-size="14" fill="#9a978f" font-weight="700">·</text>
+  <text x="58" y="354" font-size="14" fill="#3d3b37">llevas agenda de citas o bonos</text>
+  <text x="40" y="382" font-size="14" fill="#9a978f" font-weight="700">·</text>
+  <text x="58" y="382" font-size="14" fill="#3d3b37">facturas a diario y con prisa</text>
+
+  <text x="24" y="448" font-size="13" fill="#6b6963">Gratis no es poco. Pero "cumplir" y "trabajar mejor"</text>
+  <text x="24" y="466" font-size="13" fill="#6b6963">no son lo mismo.</text>
+</svg>
